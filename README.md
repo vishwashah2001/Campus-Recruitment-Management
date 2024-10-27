@@ -43,3 +43,6 @@ To install and set up the project, follow these steps:
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/campus-recruitment-management.git
+## Visualisations
+![Campus Recruitment Overview](Image 1.png)
+![Campus Recruitment Overview](Image 2.png)
